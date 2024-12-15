@@ -1,0 +1,36 @@
+Lav mappe - fx reactintro - åbn mappen i VS Code
+npm create vite@latest . 
+    vælg at beholde alle filer/mapper
+    vælg React
+    vælg JavaScript
+
+npm install
+
+npm run dev -- --open
+
+tailwind :
+https://tailwindcss.com/docs/guides/vite
+
+npm install -D tailwindcss postcss autoprefixer
+
+npx tailwindcss init -p
+
+Pocketbase :
+
+smid zip fil i egen folder i src.
+
+Åben den folder seperat i powershell og "./pocketbase serve"
+
+Andre :
+
+npm i react-router-dom
+npm i axios
+npm install react-icons --save
+
+EKSTRA
+npm i bootstrap
+npm i sass
+
+https://stackoverflow.com/questions/70504047/how-to-have-a-bordered-text-in-tailwind
+tailwind bordered text plugin (easy)
+

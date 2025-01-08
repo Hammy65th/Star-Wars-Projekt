@@ -1,6 +1,6 @@
 import React from 'react'
 import Logo from '../assets/Error_Screen.jpg'
-
+// Yup
 const NoPage = () => {
   return (
     <div className='bg-black'>
